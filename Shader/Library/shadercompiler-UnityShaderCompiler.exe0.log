@@ -1,0 +1,44 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1405 outsize=285 ok=1
+Cmd: preprocess
+  insize=1228 outsize=285 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): syntax error: unexpected token '}'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=0 insize=1381 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (23): syntax error: unexpected token '}'\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR
+  api=4 type=1 insize=1381 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=0
+Cmd: preprocess
+  insize=1229 outsize=285 ok=1
+Cmd: preprocess
+  insize=1229 outsize=285 ok=1
+Cmd: preprocess
+  insize=1237 outsize=285 ok=1
+Cmd: preprocess
+  insize=5090 outsize=713 ok=1
+Cmd: preprocess
+  insize=5091 outsize=713 ok=1
+Cmd: preprocess
+  insize=5091 outsize=713 ok=1
+Cmd: preprocess
+  insize=5333 outsize=713 ok=1
+Cmd: preprocess
+  insize=5368 outsize=713 ok=1
+Cmd: preprocess
+  insize=5374 outsize=713 ok=1
+Cmd: preprocess
+  insize=5402 outsize=713 ok=1
+Cmd: preprocess
+  insize=5402 outsize=713 ok=1
+Cmd: preprocess
+  insize=5403 outsize=713 ok=1
+Cmd: preprocess
+  insize=5402 outsize=713 ok=1
+Cmd: preprocess
+  insize=5873 outsize=715 ok=1
+Cmd: preprocess
+  insize=5864 outsize=714 ok=1

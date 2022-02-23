@@ -1,0 +1,1 @@
+copy /Y "C:\Users\DELL\Shader\Assets\ShaderlabVS\ScriptTemplates\HLSL Shader-New HLSL Shader.hlsl.txt" "C:\Program Files\Unity\Hub\Editor\2019.4.21f1\Editor\Data\Resources\ScriptTemplates\90-Shader__HLSL Shader-New HLSL Shader.hlsl.txt"
