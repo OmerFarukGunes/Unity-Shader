@@ -97,6 +97,7 @@
     <None Include="Assets\Shaders\48_AdvanceOutline.shader" />
     <None Include="Assets\Shaders\42_BasicVF.shader" />
     <None Include="Assets\Shaders\29_sTANDARDsPEC.shader" />
+    <None Include="Assets\Shaders\Transparency.shader" />
     <None Include="Assets\Shaders\Wave.shader" />
     <None Include="Assets\Shaders\24_Rim.shader" />
     <None Include="Assets\Shaders\53_UVScroll.shader" />

@@ -39,8 +39,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _MainTex:
+    - _FoamTex:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5f224814e6da9ce4698867d3e713a0fe, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -55,30 +59,71 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _RampTex:
+        m_Texture: {fileID: 2800000, guid: 34eea001a6382a349a551d0dd31d2b46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _myBump:
+        m_Texture: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _myCube:
+        m_Texture: {fileID: 8900000, guid: ad8450374b76d4e7f9baa4ce4ef02194, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _myDiffuse:
+        m_Texture: {fileID: 2800000, guid: 34eea001a6382a349a551d0dd31d2b46, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Amount: 0.01
     - _BumpScale: 1
     - _Cutoff: 0.5
+    - _Density: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _FadeDist: 0.5
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _InnerRatio: 0.5
+    - _MaxHeight: 10
     - _Metallic: 0
+    - _MinHeight: 0
     - _Mode: 0
     - _OcclusionStrength: 1
+    - _Outline: 0.005
     - _Parallax: 0.02
+    - _RimPower: 3
+    - _SComp: 8
+    - _SOp: 2
+    - _SRef: 1
+    - _Scale: 2
     - _Scale1: 0.9
     - _Scale2: 2
     - _Scale3: 2
     - _Scale4: 2
+    - _ScaleUVX: 1
+    - _ScaleUVY: 1
+    - _ScrollX: 1
+    - _ScrollY: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _Speed: 31
     - _SrcBlend: 1
+    - _Step: 60
+    - _StepScale: 1
     - _UVSec: 0
     - _ZWrite: 1
+    - _myBright: 1
+    - _mySlider: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogCentre: {r: 0, g: 0, b: 0, a: 0.5}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 0, g: 0.5, b: 0.5, a: 0}
+    - _SunDir: {r: 1, g: 0, b: 0, a: 0}
     - _Timt: {r: 1, g: 1, b: 1, a: 1}
     - _Tint: {r: 1, g: 1, b: 1, a: 1}
