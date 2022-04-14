@@ -183,7 +183,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 201
+    width: 203
     height: 486
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -207,9 +207,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 201
+    x: 203
     y: 0
-    width: 1286
+    width: 1284
     height: 486
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 87
+  controlID: 130
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -440,29 +440,29 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1920
     y: 73
-    width: 200
+    width: 202
     height: 465
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f4f8ffff
-      m_LastClickedID: -1804
-      m_ExpandedIDs: 68fbffff
+      m_SelectedIDs: 78350000
+      m_LastClickedID: 13688
+      m_ExpandedIDs: 68fbfffffe340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Cube
-        m_OriginalName: Cube
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 13528
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -493,9 +493,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2121
+    x: 2123
     y: 73
-    width: 1284
+    width: 1282
     height: 465
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -508,9 +508,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.8053963, y: 0.86662287, z: -4.8036757}
+    m_Target: {x: 3.8985395, y: -1.7460836, z: 0.35391665}
     speed: 2
-    m_Value: {x: -3.8053963, y: 0.86662287, z: -4.8036757}
+    m_Value: {x: 3.898213, y: -1.7460685, z: 0.35394612}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -556,13 +556,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.022459786, y: 0.036204234, z: 0.0012985008, w: 0.9993605}
+    m_Target: {x: -0.33883327, y: -0.06920204, z: 0.02447628, w: -0.93828124}
     speed: 2
-    m_Value: {x: -0.022451773, y: 0.037693094, z: 0.0013318307, w: 0.99903625}
+    m_Value: {x: -0.33870003, y: -0.070589356, z: 0.024977414, w: -0.9379102}
   m_Size:
-    m_Target: 1.7994994
+    m_Target: 5.5314546
     speed: 2
-    m_Value: 1.7994994
+    m_Value: 5.2314544
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -690,20 +690,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Shaders
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Shaders
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\DELL\Documents\GitHub\Unity-Shader\Shader
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12360000
-    m_LastClickedID: 13842
-    m_ExpandedIDs: 000000001236000014360000163600001836000000ca9a3b
+    m_SelectedIDs: 4c360000
+    m_LastClickedID: 13900
+    m_ExpandedIDs: 000000001e36000020360000223600002436000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -731,7 +731,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000012360000143600001636000018360000
+    m_ExpandedIDs: 000000001e360000203600002236000024360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
